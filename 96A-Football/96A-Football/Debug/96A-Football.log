@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\hub\codeforce\96a-football\96a-football\main.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  96A-Football.vcxproj -> E:\Hub\CodeForce\96A-Football\Debug\96A-Football.exe
+  96A-Football.vcxproj -> E:\Hub\CodeForce\96A-Football\Debug\96A-Football.pdb (Partial PDB)
