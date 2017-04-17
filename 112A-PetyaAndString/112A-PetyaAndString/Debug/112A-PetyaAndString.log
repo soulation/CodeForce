@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\hub\codeforce\112a-petyaandstring\112a-petyaandstring\main.cpp(11): warning C4018: '<=': signed/unsigned mismatch
+  112A-PetyaAndString.vcxproj -> E:\Hub\CodeForce\112A-PetyaAndString\Debug\112A-PetyaAndString.exe
+  112A-PetyaAndString.vcxproj -> E:\Hub\CodeForce\112A-PetyaAndString\Debug\112A-PetyaAndString.pdb (Partial PDB)
